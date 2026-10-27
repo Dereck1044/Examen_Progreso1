@@ -19,8 +19,6 @@ public class InterfazImpresiones extends JFrame {
     static final int CAPACIDAD = 10;
 
     private final GestorImpresiones gestor;
-
-    // Componentes enlazados con InterfazImpresiones.form (no inicializar aqui).
     private JPanel panelPrincipal;
     private JTabbedPane pestanas;
     private JPanel panelRegistrar;
